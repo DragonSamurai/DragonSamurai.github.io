@@ -22,7 +22,7 @@
             <span class="nav-separator"><i class="fas fa-star"></i></span>
         </nav>
         <div class="nav-right">
-            <span>+1 (202) 456-1111</span>
+            <span>(202) 456-1111</span>
         </div>
     </header>
 
@@ -32,7 +32,8 @@
                 <span class="ambient-text">AMBIENT</span>
                 <h1 class="headline">我们的使命</h1>
                 <p class="description-text">
-                    在 Dragon Samurai 餐厅，我们想给客人地道的日本和中国菜。
+                    在 Dragon Samurai 餐厅，我们想要给客人地道的日本和中国菜。因为有一天香蕉小 Tran 吃了不地道的日本和中国菜，把他变成了一个恐怖分子和酒鬼。因为我门不喜欢恐怖分子和酒鬼，所以我们给人地道的食物。不会让他们变成恐怖分子和酒鬼。
+
                 </p>
                 <div class="arrow left-arrow"><i class="fas fa-arrow-left"></i></div>
             </div>
